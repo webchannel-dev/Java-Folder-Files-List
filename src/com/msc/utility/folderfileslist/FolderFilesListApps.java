@@ -2,7 +2,7 @@ package com.msc.utility.folderfileslist;
 
 /**
  * @Decsriptoin : Target of this apps is to get all filenames inside the inputed folder and subfolder into Spreadsheet   .
- * @author : Ali Jamali
+ * @author : MAVAJ SUN CO
  * @Date : 8-March-2011
  * @Email : info@mavajsunco.com
  * @Website : www.MavajSunCo.com
